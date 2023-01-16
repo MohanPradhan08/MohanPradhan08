@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohanPradhan08
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ML based projects
+- 💞️ I’m looking to collaborate on Machine Learning and Deep Learning based projects
 
 <!---
 MohanPradhan08/MohanPradhan08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
